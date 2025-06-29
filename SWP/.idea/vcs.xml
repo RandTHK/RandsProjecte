@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/wawi1bootloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wawi1kundegui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wawi1kundesteuerung" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wawi1lagerdaten" vcs="Git" />
+  </component>
+</project>
